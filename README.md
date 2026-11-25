@@ -1,2 +1,2 @@
 # sikampus-release
-Rilis aplikasi Sikampus
+Rilis aplikasi Sikampus AGPL-3 (Community Edition)
